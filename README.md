@@ -1,8 +1,6 @@
 # CleanSlate-BI-Reporting-Case-Study
 End-to-end small-business data cleanup, validation, KPI analysis, and executive dashboard reporting using Excel and Power Query.
 
-## Tier 3 — BI Reporting Package
-
 CleanSlate Cleaning Co. is a fictional small-business case study demonstrating an end-to-end business intelligence and reporting workflow using Microsoft Excel and Power Query.
 
 The project transforms raw operational data into a validated analytical dataset, business insights, and an executive dashboard.
@@ -108,13 +106,6 @@ The project follows a controlled data-cleaning approach:
 
 Negative values, missing values, duplicate records with differing details, and other unresolved business-data exceptions were not arbitrarily removed.
 
-## Project Classification
-
-**Tier 3 — BI Reporting Package**
-
-Typical service positioning: **$1,000–$1,500**, depending on dataset size, complexity, analytical scope, reporting requirements, and client needs.
-
-CleanSlate represents a small-business Tier 3 engagement combining data preparation, analysis, KPI reporting, and executive dashboard development.
 
 ## Disclaimer
 
@@ -124,6 +115,6 @@ All data is synthetic and contains no real client information or personally iden
 
 ## Author
 
-**Celestial Intelligence**
+Nigar Sultana
 
 Data Analysis | Business Intelligence | Reporting
